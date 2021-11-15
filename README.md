@@ -14,7 +14,7 @@ AnalyzeReasons_1.ipynb reads the original data and perfroms cleaning and pre-pro
 AnalyzeReasons_2.ipynb runs several regression models to analyze the influence of self control on people's thoughts, and the relationships between their thoughts, choices, and preferences.
 
 
-For data please contact me hajihosseini@gmail.com
+For questions about data, please contact me hajihosseini@gmail.com
 
 ### References
 
